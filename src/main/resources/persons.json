@@ -1,0 +1,50 @@
+{
+   "persons":[
+      {
+         "name":"Alice",
+         "lastName":"Daniel",
+         "age":32,
+         "job":"Student",
+         "languages":[
+            "English",
+            "French",
+            "German"
+         ],
+         "addresses":[
+            {
+               "country":"Italy",
+               "ciry":"Rome",
+               "street":"Via del Corso"
+            },
+            {
+               "country":"Canada",
+               "city":"Montreal",
+               "street":"Laurier"
+            }
+         ]
+      },
+      {
+         "name":"Tom",
+         "lastName":"Berton",
+         "age":24,
+         "job":"Software Developer",
+         "languages":[
+            "English",
+            "French",
+            "Spanish"
+         ],
+         "addresses":[
+            {
+               "country":"Germany",
+               "ciry":"Berlin",
+               "street":"Alexanderplatz"
+            },
+            {
+               "country":"Canada",
+               "city":"St. John's",
+               "street":"Penney Lane"
+            }
+         ]
+      }
+   ]
+}
